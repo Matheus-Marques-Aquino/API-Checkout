@@ -1,0 +1,21 @@
+.group-title {
+    font-size: 15px;
+    letter-spacing: 3px;
+}
+.textarea-user-group{
+    width: 200px;
+    margin: 0 auto;
+    line-height:16px;
+    padding-top: 10px;
+    padding-left: 35px;
+    border-color:#CCC;
+    background-image: url(http://localhost/wordpress/wp-content/uploads/2021/09/line-numbers.png);
+    background-attachment: local;
+    background-color: #FFF;
+    background-repeat: no-repeat;
+    resize: none;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    white-space: pre-wrap; 
+}
